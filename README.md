@@ -1,7 +1,7 @@
 
 # Sound.js
 
-A simple and fast way to play sounds by calling a function.
+A simple js framework and fast way to play sounds by calling a function.
 
 It works by checking the names of the sounds in the folder and then when you run the function and give it as a parameter the name of the sound then it plays it 
 
