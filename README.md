@@ -3,17 +3,18 @@
 
 A simple and fast way to play sounds by calling a function.
 
-It works by checking the names of the sounds in the folder, and then, when you run the function and give it the name of the sound as a parameter, it plays it 
+It works by checking the names of the sounds in the folder, and then when you run the function and give it the name of the sound as a parameter, it plays it 
 
 
 ## Installation
 
-Install Sound.js by downloading the zip, extracting, and putting the folders into your project
+Install Sound.js by downloading the zip, extracting, and putting the folders into your project,
+then put a script tag in your HTML file and src the play.js file; then you can use the play function!
 
 
 ## Usage
 
-#### Run the function and add the name as a parameter; for example, pop
+#### Run the function and add the name as a parameter, for example, pop
 
 ```http
   play('pop')
