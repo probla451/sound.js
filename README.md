@@ -3,7 +3,7 @@
 
 A simple and fast way to play sounds by calling a function.
 
-It works by checking the names of the sounds in the folder, and then when you run the function and give it the name of the sound as a parameter, it plays it 
+It works by checking the names of the sounds in the folder, and then, when you run the function and give it the name of the sound as a parameter, it plays it 
 
 
 ## Installation
@@ -11,7 +11,7 @@ It works by checking the names of the sounds in the folder, and then when you ru
 Install Sound.js by downloading the zip, extracting, and putting the folders into your project
 
 
-## API Reference
+## Usage
 
 #### Run the function and add the name as a parameter; for example, pop
 
